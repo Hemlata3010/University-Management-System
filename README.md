@@ -32,6 +32,8 @@ The **University Management System (UMS)** is a comprehensive software solution 
 
 ## ER Diagram
 ![ER Diagram](path/to/er-diagram.png)
+![E-R DIAGRAM](https://github.com/user-attachments/assets/b87f3af7-c967-4933-99fb-8b6f7f9aeaeb)
+
 
 ---
 
