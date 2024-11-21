@@ -35,7 +35,4 @@ The **University Management System (UMS)** is a comprehensive software solution 
 
 ---
 
-## Installation Guide
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/university-management-system.git
+
